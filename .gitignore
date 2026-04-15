@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+.env/
+
+# Jupyter / temp
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Large / raw data
+*.zip
+*.gdb/
+*.gpkg
+*.geojson
+# *.xlsx
+
+# Project folders
+# data/raw/
+# data/processed/
+
+# Output files
+# output/
+# *.html
+
+# Logs
+*.log
